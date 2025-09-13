@@ -1,0 +1,11 @@
+---
+title: "José Rafael Pineda Albarrán"
+---
+
+This is a Quarto website. HOLA
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
