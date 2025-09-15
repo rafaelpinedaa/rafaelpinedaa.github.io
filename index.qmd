@@ -1,13 +1,26 @@
 ---
 title: "José Rafael Pineda Albarrán"
+image: images/Foto.jpeg
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/jos%C3%A9-rafael-pineda-albarr%C3%A1n-948762179
+      icon: linkedin
+    - text: GitHub
+      href: https://github.com/rafaelpinedaa
+      icon: github
+    - text: X/Twitter
+      href: https://x.com/rafaelpineda_20
+      icon: twitter
+    - text: Email
+      href: mailto:rafael.pineda@bse.edu
+      icon: envelope
 ---
 
-This is a Quarto website. HOLA, esto es mi página personal. AHHH
-Listo. 
-
-- 25 años
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+En construcción...
 
 ```{r}
 1 + 1

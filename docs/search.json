@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Curso en los que he colaborado como profesor adjunto:\n\nTeoría Monetaria y Política Financiera\nTeoría Macroeconómica II\nMacroeconomía III\nPolítica Monetaria"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "José Rafael Pineda Albarrán",
     "section": "",
-    "text": "This is a Quarto website. HOLA, esto es mi página personal. AHHH Listo.\n\n25 años\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "En construcción…\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "about.html",
@@ -14,10 +21,10 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Curso en los que he colaborado como profesor adjunto:\n\nTeoría Monetaria y Política Financiera\nTeoría Macroeconómica II\nMacroeconomía III\nPolítica Monetaria"
+    "text": "Algunos de mis trabajos de investigación"
   }
 ]
