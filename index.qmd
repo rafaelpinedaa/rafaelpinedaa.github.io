@@ -20,8 +20,6 @@ about:
       icon: envelope
 ---
 
-En construcción...
+ En construcción...
 
-```{r}
-1 + 1
-```
+
