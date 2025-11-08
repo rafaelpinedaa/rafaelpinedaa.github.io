@@ -11,9 +11,6 @@ website:
       - about.qmd
       - research.qmd
       - teaching.qmd
-  announcement: 
-    content: "**New** - this is an announcement" 
-    position: below-navbar 
 
 format:
   html:
