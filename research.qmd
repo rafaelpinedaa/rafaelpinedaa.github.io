@@ -3,3 +3,47 @@ title: "Research"
 ---
 
 <!-- Algunos de mis trabajos de investigación -->
+
+# Published Papers
+
+- **Vélez Grajales, R., & Pineda Albarrán, J. R. (2024). Movilidad social de la población indígena en México: un ejercicio de imputación simple.**  
+  *Aportes Nueva Época, 1(1), e344.*.  
+  El presente trabajo tiene como objetivo realizar un ejercicio de imputación para generar una
+base de datos combinada que permita obtener resultados de movilidad social intergeneracional
+con representatividad estadística nacional para grupos de población que no cuentan con
+ella en la Encuesta ESRU de Movilidad Social en México 2017 (ESRU-EMOVI). Para lograr dicha
+representatividad se echa mano de la Encuesta Nacional sobre Discriminación 2017 (ENADIS).
+Como ejercicio de validación de la base resultante se calculan matrices de transición y se estiman
+regresiones rango-rango para la población indígena mexicana, y se comparan con los
+resultados del trabajo de Monroy-Gómez-Franco (2023), quien se aproxima a ellos con un
+método alternativo. La evidencia resulta consistente y confirma la desventaja de la población
+indígena en términos de su experiencia de movilidad social. Una vez validada su funcionalidad,
+hacia futuro, la base de datos combinada permitirá realizar inferencia estadística en
+torno a otras poblaciones minoritarias sujetas de discriminación.
+  [https://doi.org/10.32399/AportesNE.febuap.30618053.2024.1.1.344]
+
+- **Pineda Albarrán, J. R. (2024). Accumulation of International Reserves in Latin America: The Mexican Case.**  
+ *Journal Name, año*. 
+ Economia Internazionale/International Economics, 77(1), 63-90. Available in: https://www.iei1946.it/article/pdf/international-reserves-in-latin-america-the-mexican-case
+
+
+# Working Papers
+
+
+- **Hernandez-Cortes, D., Lopez-Feldman, A., Pineda Albarr´an, R., Ramos Flores, M., & Velez Grajales, R. (forthcoming). Just energy transition, structural inequities, and social mobility: The case of Mexico (Working Paper)**.
+Agence Franc¸aise de D´eveloppement & Centro de Estudios Espinosa Yglesias.
+
+- **Pineda Albarr´an, J. R. (2023). Guide for calculating the decomposition of income poverty using the Datt and Ravallion method.**
+University Program for Development Studies (PUED). Available in:
+http://www.pued.unam.mx/export/sites/default/archivos/Investigaciones/1/Guia.pdf
+
+- **Proyecto 2: Título tentativo**  
+  Proyecto en coautoría con X y Y.  
+  Investigamos el impacto de...  
+
+
+# Research Interests
+
+- Macroeconomía internacional  
+- Movilidad social y desigualdad  
+- Econometría aplicada / Métodos cuantitativos  

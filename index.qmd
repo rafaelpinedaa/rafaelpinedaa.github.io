@@ -20,6 +20,11 @@ about:
       icon: envelope
 ---
 
- En construcción...
+I am currently pursuing a Master’s in Economics and Finance at the Barcelona School of Economics (BSE). I hold a Bachelor’s degree in Economics from the National Autonomous University of Mexico (UNAM), where I also served as a teaching assistant in Macroeconomics and Monetary Theory. I have worked as a research assistant at the Espinosa Yglesias Center for Studies (CEEY) and at the University Program for Development Studies (PUED-UNAM).
 
+Soy estudiante de la maestría en Economía y Finanzas en la Barcelona School of Economics (BSE). Realiacé mis estudios de licenciatura en la Facultad de Economía de la UNAM, en dónde también trabajé como profesor asistente en asignaturas de macroeconomía y teoría monetaria. He trabajo como asistente de investigación en el Centro de Estudios Espinosa Yglesias (CEEY) y en el Programa Universtario de Estuios del Desarrollo (PUED-UNAM).
+
+  <!-- announcement:  -->
+  <!--   content: "**New** - this is an announcement"  -->
+  <!--   position: below-navbar  -->
 
